@@ -1,5 +1,7 @@
 #include <bits/stdc++.h>
 
+#include <atcoder/all>
+
 using ll = long long;
 using ull = unsigned long long;
 
