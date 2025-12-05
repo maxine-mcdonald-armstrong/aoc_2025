@@ -1,3 +1,10 @@
+*
+!**.*
+!**/
+
+# Problem input (copyright)
+*.txt
+
 # Prerequisites
 *.d
 
