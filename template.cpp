@@ -9,5 +9,5 @@ using namespace std;
 
 int main() {
     std::fstream fp("in.txt", std::ios_base::in);
-    // here
+    // std::fstream fp("sample.txt", std::ios_base::in);
 }
