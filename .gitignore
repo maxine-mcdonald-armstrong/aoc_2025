@@ -1,6 +1,10 @@
+# Ignores any files without extensions, intended to ignore executables
 *
 !**.*
 !**/
+
+# Allow UNLICENSE
+!**/UNLICENSE
 
 # Problem input (copyright)
 *.txt
