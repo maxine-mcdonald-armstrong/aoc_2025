@@ -8,6 +8,7 @@
 
 # Problem input (copyright)
 *.txt
+!requirements.txt
 
 # Prerequisites
 *.d
