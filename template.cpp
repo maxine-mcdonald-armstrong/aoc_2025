@@ -7,7 +7,4 @@ using ull = unsigned long long;
 
 using namespace std;
 
-int main() {
-    std::fstream fp("in.txt", std::ios_base::in);
-    // std::fstream fp("sample.txt", std::ios_base::in);
-}
+int main() { std::fstream fp("in.txt", std::ios_base::in); }

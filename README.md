@@ -2,6 +2,8 @@
 
 My solutions to the AoC 2025 puzzles.
 
+Merry Christmas!
+
 ## Structure
 
 I created some template files with basic setup in both Python and C++. Each day has its own directory, with code files name 1 and 2 for parts 1 and 2. In my `~/workspace/` directory I have the AtCoder library, and I've included it in my Makefile in-case I ever want to use some of its utilities.
@@ -16,3 +18,4 @@ I am not planning on dedicating more time to the problems after I've solved them
 
 This repository is intentionally UNLICENSED and not intended to receive any contributions. I've made this public so that I can more easily share my solutions with my friends. 
 
+>>>>>>> origin/main
